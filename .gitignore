@@ -1,0 +1,6 @@
+.vscode/
+workspace
+.idea/
+# build output
+/hive
+mainnet.json
